@@ -1,4 +1,4 @@
-# china-city
+# china-city [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 中国城市json数据
 
 ## 数据库 city.db 结构:  
@@ -29,3 +29,5 @@
 * CREATE INDEX "country_4a5754ed" ON "country" ("province_id");  
 * CREATE INDEX "city_4a5754ed" ON "city" ("province_id");  
 加快了联表查询时的速度  
+
+# [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
